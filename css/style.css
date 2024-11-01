@@ -1,0 +1,100 @@
+﻿.box {
+float: left;
+margin: 5px;
+padding: 5px;
+width: 230px;
+height: 200px;
+border: 1px solid black;
+} 
+
+.box_head{
+	float: left;
+margin: 5px;
+padding: 5px;
+width: 80%;
+
+	
+	}
+	.main_container_top
+	{
+		width:100%;
+		float:left;
+		margin-top:3rem;
+		
+		}
+	.main_container
+	{ 
+		float:left;
+		display:none;
+		width:100%;
+		margin-top:2rem;
+		}
+		
+		.main_container_active
+	{ width:100%;
+		float:left;
+		display:block;
+		}
+		.onecolumn_box
+		{ padding:5px;
+		width:98%;}
+		.twocolumn_box
+		{ float: left;
+margin: 5px;
+padding: 6px;
+width: 480px;
+height: 200px;
+border: 0px solid black;}
+		.threecolumn_box
+			{ 
+			float: left;
+			margin: 5px;
+			padding: 6px;
+			width: 320px;
+			height: 200px;
+			border: 0px solid black;
+			}
+		.fourcolumn_box
+			{ 
+			float: left;
+			margin: 5px;
+			padding: 6px;
+			width: 230px;
+			height: 200px;
+			border: 0px solid black;
+			}
+		.inner_text
+			{
+			width:100%;
+			height:10rem;
+			float:left;
+			}
+			.layout_buttons
+			{
+			background:navy;
+			border-radius: 5px;
+			color: #fff;			
+			cursor:pointer; 
+			float:left;
+			}
+			.layout_button
+			{
+			background:navy;
+			border-radius: 5px;
+			color: #fff;			
+			cursor:pointer; 
+			float:left;
+			margin-top:20px;
+			}
+			.order_box
+			{
+			
+			float:left;
+			}
+			
+			.title_box
+			{
+				margin-bottom:20px;
+			}
+			
+			.class{ border:1px solid #fff;}
